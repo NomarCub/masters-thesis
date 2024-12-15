@@ -4,6 +4,8 @@ Ez a tárhely a diplomatervemhez tartozik - "Zene szintézis számítógépes j�
 
 Megtalálható itt minden hozzátartozó kód, és a Releases fülön egy elkészült build Windows-ra. Az alkalmazás cross-platform, de csak Windows-on volt tesztelve.
 
+![image](https://github.com/user-attachments/assets/286c719d-05dd-423a-89fa-95400e046feb)
+
 ## Telepítés
 
 - Exe artifakt letöltése a Releases alól, majd annak kicsomagolása
