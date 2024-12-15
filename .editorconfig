@@ -1,0 +1,3 @@
+[*.cs]
+csharp_brace_style = end_of_line
+csharp_indent_inside_namespace = false

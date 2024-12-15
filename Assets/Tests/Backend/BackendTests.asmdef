@@ -1,0 +1,23 @@
+{
+    "name": "BackendTests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2b06aaa5860b2344dbd9d526bfc3482e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Melanchall.DryWetMidi.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": true
+}
